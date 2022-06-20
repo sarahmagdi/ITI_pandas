@@ -1,0 +1,92 @@
+"customer_id","company_name","city","country","orders_count"
+"TOMSP","Toms Spezialitäten","Münster","Germany",6
+"LONEP","Lonesome Pine Restaurant","Portland","USA",8
+"OLDWO","Old World Delicatessen","Anchorage","USA",10
+"WARTH","Wartian Herkku","Oulu","Finland",15
+"MAGAA","Magazzini Alimentari Riuniti","Bergamo","Italy",10
+"QUEEN","Queen Cozinha","Sao Paulo","Brazil",13
+"VINET","Vins et alcools Chevalier","Reims","France",5
+"ANTON","Antonio Moreno Taquería","México D.F.","Mexico",7
+"MORGK","Morgenstern Gesundkost","Leipzig","Germany",5
+"GOURL","Gourmet Lanchonetes","Campinas","Brazil",9
+"WOLZA","Wolski  Zajazd","Warszawa","Poland",7
+"GALED","Galería del gastrónomo","Barcelona","Spain",5
+"RATTC","Rattlesnake Canyon Grocery","Albuquerque","USA",18
+"WELLI","Wellington Importadora","Resende","Brazil",9
+"WILMK","Wilman Kala","Helsinki","Finland",7
+"FURIB","Furia Bacalhau e Frutos do Mar","Lisboa","Portugal",8
+"DUMON","Du monde entier","Nantes","France",4
+"FRANK","Frankenversand","München","Germany",15
+"FAMIA","Familia Arquibaldo","Sao Paulo","Brazil",7
+"TORTU","Tortuga Restaurante","México D.F.","Mexico",10
+"FRANS","Franchi S.p.A.","Torino","Italy",6
+"PRINI","Princesa Isabel Vinhos","Lisboa","Portugal",5
+"RANCH","Rancho grande","Buenos Aires","Argentina",5
+"PERIC","Pericles Comidas clásicas","México D.F.","Mexico",6
+"CONSH","Consolidated Holdings","London","UK",3
+"ISLAT","Island Trading","Cowes","UK",10
+"LEHMS","Lehmanns Marktstand","Frankfurt a.M.","Germany",15
+"ALFKI","Alfreds Futterkiste","Berlin","Germany",6
+"VICTE","Victuailles en stock","Lyon","France",10
+"RICAR","Ricardo Adocicados","Rio de Janeiro","Brazil",11
+"FOLIG","Folies gourmandes","Lille","France",5
+"LINOD","LINO-Delicateses","I. de Margarita","Venezuela",12
+"ANATR","Ana Trujillo Emparedados y helados","México D.F.","Mexico",4
+"LAZYK","Lazy K Kountry Store","Walla Walla","USA",2
+"QUICK","QUICK-Stop","Cunewalde","Germany",28
+"THEBI","The Big Cheese","Portland","USA",4
+"CHOPS","Chop-suey Chinese","Bern","Switzerland",8
+"GROSR","GROSELLA-Restaurante","Caracas","Venezuela",2
+"LACOR","La corne d'abondance","Versailles","France",4
+"FRANR","France restauration","Nantes","France",3
+"HUNGO","Hungry Owl All-Night Grocers","Cork","Ireland",19
+"OTTIK","Ottilies Käseladen","Köln","Germany",10
+"AROUT","Around the Horn","London","UK",13
+"KOENE","Königlich Essen","Brandenburg","Germany",14
+"MEREP","Mère Paillarde","Montréal","Canada",13
+"BLAUS","Blauer See Delikatessen","Mannheim","Germany",7
+"LAUGB","Laughing Bacchus Wine Cellars","Vancouver","Canada",3
+"THECR","The Cracker Box","Butte","USA",3
+"BOLID","Bólido Comidas preparadas","Madrid","Spain",3
+"BONAP","Bon app'","Marseille","France",17
+"SANTG","Santé Gourmet","Stavern","Norway",6
+"DRACD","Drachenblut Delikatessen","Aachen","Germany",6
+"GODOS","Godos Cocina Típica","Sevilla","Spain",10
+"NORTS","North/South","London","UK",3
+"BSBEV","B's Beverages","London","UK",10
+"HANAR","Hanari Carnes","Rio de Janeiro","Brazil",14
+"SEVES","Seven Seas Imports","London","UK",9
+"MAISD","Maison Dewey","Bruxelles","Belgium",7
+"BERGS","Berglunds snabbköp","Luleå","Sweden",18
+"FOLKO","Folk och fä HB","Bräcke","Sweden",19
+"SPLIR","Split Rail Beer & Ale","Lander","USA",9
+"CACTU","Cactus Comidas para llevar","Buenos Aires","Argentina",6
+"OCEAN","Océano Atlántico Ltda.","Buenos Aires","Argentina",5
+"FISSA","FISSA Fabrica Inter. Salchichas S.A.","Madrid","Spain",0
+"SAVEA","Save-a-lot Markets","Boise","USA",31
+"BLONP","Blondesddsl père et fils","Strasbourg","France",11
+"LETSS","Let's Stop N Shop","San Francisco","USA",4
+"VAFFE","Vaffeljernet","Århus","Denmark",11
+"HILAA","HILARION-Abastos","San Cristóbal","Venezuela",18
+"EASTC","Eastern Connection","London","UK",8
+"PICCO","Piccolo und mehr","Salzburg","Austria",10
+"ERNSH","Ernst Handel","Graz","Austria",30
+"SPECD","Spécialités du monde","Paris","France",4
+"ROMEY","Romero y tomillo","Madrid","Spain",5
+"SUPRD","Suprêmes délices","Charleroi","Belgium",12
+"COMMI","Comércio Mineiro","Sao Paulo","Brazil",5
+"REGGC","Reggiani Caseifici","Reggio Emilia","Italy",12
+"TRADH","Tradição Hipermercados","Sao Paulo","Brazil",6
+"CENTC","Centro comercial Moctezuma","México D.F.","Mexico",1
+"GREAL","Great Lakes Food Market","Eugene","USA",11
+"QUEDE","Que Delícia","Rio de Janeiro","Brazil",9
+"PARIS","Paris spécialités","Paris","France",0
+"LAMAI","La maison d'Asie","Toulouse","France",14
+"SIMOB","Simons bistro","Kobenhavn","Denmark",7
+"WANDK","Die Wandernde Kuh","Stuttgart","Germany",10
+"HUNGC","Hungry Coyote Import Store","Elgin","USA",5
+"LILAS","LILA-Supermercado","Barquisimeto","Venezuela",14
+"WHITC","White Clover Markets","Seattle","USA",14
+"RICSU","Richter Supermarkt","Genève","Switzerland",10
+"TRAIH","Trail's Head Gourmet Provisioners","Kirkland","USA",3
+"BOTTM","Bottom-Dollar Markets","Tsawassen","Canada",14
